@@ -1,0 +1,30 @@
+{
+  "description": {
+    "is_a": "AnnotationProperty",
+    "labelEN": "description",
+    "project": {
+      "DSx": "teste",
+      "ANO": 1998,
+      "lista": [
+        "Raphael",
+        "Erick",
+        "Mateus",
+        "Navid",
+        "Fab",
+        "Sergillam"
+      ]
+    }
+  },
+  "relevance": {
+    "is_a": "AnnotationProperty",
+    "domain": "Indicator",
+    "labelEN": "relevance",
+    "labelPT": "relevância"
+  },
+  "title": {
+    "is_a": "AnnotationProperty",
+    "labelPT": "título",
+    "labelEN": "title",
+    "range": "Literal"
+  }
+}
